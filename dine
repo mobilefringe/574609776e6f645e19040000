@@ -21,6 +21,7 @@
              <li class="show_cat_stores" data-id="4127">Hamburger Restaurant</li>
               <li class="show_cat_stores" data-id="4128">Hawaiian Restaurant</li>
                <li class="show_cat_stores" data-id="4129">Hot Dog Restaurant</li>
+               <li class="show_cat_stores" data-id="4131">Ice Cream Shop</li>
         </ul>
     </div>
     <div class="store_nav hidden_phone">
