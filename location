@@ -7,12 +7,12 @@
     <div class="details_row">
         <div class="details_col_3">
             <p class="colored_link" style="">Office Phone Number</p>
-            <a class="side_link" href="tel:(702) 564-8595">(702) 564-8595</a>
+            <a class="side_link" href="tel:510-770-9798">510-770-9798</a>
             <p class="colored_link" style="">Address</p>
             <p class="side_link">
                 43918 Boscell Rd, Fremont, CA 94538
             </p>
-            <a class="main_btn block animated_btn" href="https://maps.google.com/maps?ll=36.022438,-115.08492&z=16&t=m&hl=en-US&gl=CA&mapclient=embed&daddr=2225%20Village%20Walk%20Dr%20%23171%20Henderson%2C%20NV%2089052%20USA@36.022438,-115.0849203" target="_blank" >Driving Direction</a>
+            <a class="main_btn block animated_btn" href="https://www.google.com/maps?ll=37.5045,-121.97&z=14&t=m&hl=en-US&gl=CA&mapclient=embed&daddr=Pacific+Commons+Shopping+Center+43918+Boscell+Rd+Fremont,+CA+94538+United+States@37.5045,-121.97" target="_blank" >Driving Direction</a>
         </div>
         <div class="details_col_9" id="event_details_container">
             <div class="map_container">
