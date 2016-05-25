@@ -59,8 +59,8 @@
                 <li><a href="/dine">DINE</a></li>
                 <li><a href="/location">LOCATION</a></li>
                 <li><a href="#" id="mobile_dd">CENTER INFORMATION</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/greenvalley-services">SERVICES</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/greenvalley-contact-us">CONTACT</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/pacificcommons-services">SERVICES</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/pacificcommon-contact-us">CONTACT</a></li>
             </ul>
         </div>
         <div class="row">
@@ -97,8 +97,8 @@
                     <div class="dropdown">
                         <a href="#" type="button" id="dropdownMenuCenterInfo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Center Information</a>
                         <ul class="dropdown-menu center_info_dd" aria-labelledby="dropdownMenuCenterInfo">
-                            <li><a href="/pages/greenvalley-services">SERVICES</a></li>
-                            <li><a href="/pages/greenvalley-contact-us">CONTACT</a></li>
+                            <li><a href="/pages/pacificcommon-services">SERVICES</a></li>
+                            <li><a href="/pages/pacificcommon-contact-us">CONTACT</a></li>
                         </ul>
                     </div>
                     <div class="clearfix"></div>
@@ -155,13 +155,13 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2016 The District at Green Valley Ranch
+                © Copyright 2016 Pacific Commons
             </p>
             <p class="footer_text">
                 43918 Boscell Rd, Fremont, CA 94538
             </p>
             <p class="footer_text">
-                <a href="tel:7025648595">510.770.97985</a> | <a href="#">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:7025648595">510.770.97985</a> | <a href="/pages/pacificcommons-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
             <img src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt="">
             <p class="footer_text">
@@ -184,7 +184,7 @@
                         43918 Boscell Rd, Fremont, CA 94538
                     </p>
                     <p class="footer_text">
-                <a href="tel:7025648595">510.770.9798</a> | <a href="#">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:7025648595">510.770.9798</a> | <a href="/pages/pacificcommons-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
                 </div>
             </div>
