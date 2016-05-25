@@ -117,6 +117,7 @@
     
     function renderPage(){
         var stores = [];
+        var s0 = getStoresListByCategoryID(4109)
         var s1 = getStoresListByCategoryID(4114)
         var s2 = getStoresListByCategoryID(4116)
         var s3 = getStoresListByCategoryID(4117)
@@ -133,6 +134,7 @@
         var s14 = getStoresListByCategoryID(4143)
         var s15 = getStoresListByCategoryID(4144)
         var s16 = getStoresListByCategoryID(4147)
+        stores = stores.concat(s0)
         stores = stores.concat(s1)
         stores = stores.concat(s2)
         stores = stores.concat(s3)
