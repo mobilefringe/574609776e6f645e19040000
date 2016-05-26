@@ -147,7 +147,7 @@
         stores = stores.concat(s10)
         stores = stores.concat(s11)
         stores = stores.concat(s12)
-         stores = stores.concat(s13)
+        stores = stores.concat(s13)
         stores = stores.concat(s14)
         var newarr = [];
         var unique = {};
