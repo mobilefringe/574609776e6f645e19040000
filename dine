@@ -149,6 +149,8 @@
         stores = stores.concat(s12)
         stores = stores.concat(s13)
         stores = stores.concat(s14)
+        stores = stores.concat(s15)
+        stores = stores.concat(s16)
         var newarr = [];
         var unique = {};
         $.each(stores, function(i,v){
