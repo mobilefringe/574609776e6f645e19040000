@@ -6,7 +6,7 @@
 <div class="main_container mobile_padding">
     <div class="details_row">
         <div class="details_col_3 hidden_phone">
-            <img src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/jpeg/undefined/pc_440x1200_side_events.jpg" />
+            <img src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/jpeg/undefined/pc_440x1200_side_jobs.jpg" />
         </div>
         <div class="details_col_9" id="job_details_container">
             <script id="job_details_template" type="x-tmpl-mustache/text">
