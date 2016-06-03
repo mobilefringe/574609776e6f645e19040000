@@ -24,6 +24,15 @@
     function renderPage(){
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
+          if (slug == "pacificcommons-privacy-policy"){
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/jpeg/undefined/pc_440x1200_side_privacy.jpg")
+        }
+       if (slug == "pacificcommons-services"){
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/jpeg/undefined/pc_440x1200_side_services.jpg")
+        }
+        if (slug == "pacificcommons-contact-us"){
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/jpeg/undefined/pc_440x1200_side_contact.jpg")
+        }
         prefix = get_prefix();
         $('#top_banner').addClass(slug)
         var pages_json = prefix+"/pages/" + slug + ".json"
