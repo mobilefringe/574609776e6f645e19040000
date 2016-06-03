@@ -6,7 +6,7 @@
 <div class="main_container mobile_padding">
     <div class="details_row">
         <div class="details_col_3 hidden_phone">
-            <img src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/jpeg/undefined/pc_440x1200_side_events.jpg" />
+            <img id="side_image" src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/jpeg/undefined/pc_440x1200_side_events.jpg" />
         </div>
         <div class="details_col_9">
             <div id="mm_page_content" class="details_desc"></div>
