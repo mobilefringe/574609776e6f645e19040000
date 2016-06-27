@@ -10,15 +10,14 @@
             <a class="side_link" href="tel:510-770-9798">510-770-9798</a>
             <p class="colored_link" style="">Address</p>
             <p class="side_link">
-                43440 Boscell Road
-Fremont, CA  94538
+                43918 Boscell Rd, Fremont, CA 94538
             </p>
-            <a class="main_btn block animated_btn" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.20262114458!2d-121.97730268469016!3d37.50313897980986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fc76bd26a866b%3A0xee7a07ffbcdbeeb5!2s43440+Boscell+Rd%2C+Fremont%2C+CA+94538%2C+USA!5e0!3m2!1sen!2sca!4v1467044198890" target="_blank" >Driving Direction</a>
+            <a class="main_btn block animated_btn" href="https://www.google.com/maps?ll=37.5045,-121.97&z=14&t=m&hl=en-US&gl=CA&mapclient=embed&daddr=Pacific+Commons+Shopping+Center+43918+Boscell+Rd+Fremont,+CA+94538+United+States@37.5045,-121.97" target="_blank" >Driving Direction</a>
         </div>
         <div class="details_col_9" id="event_details_container">
             <div class="map_container">
                 <div class="map_overlay" onClick="style.pointerEvents='none'"></div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12660.579682400677!2d-121.97!3d37.5045!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf6eee81ef5aafb1f!2sPacific+Commons+Shopping+Center!5e0!3m2!1sen!2sca!4v1464211377583" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.20262114458!2d-121.97730268469016!3d37.50313897980986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fc76bd26a866b%3A0xee7a07ffbcdbeeb5!2s43440+Boscell+Rd%2C+Fremont%2C+CA+94538%2C+USA!5e0!3m2!1sen!2sca!4v1467044198890" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             <div id="mm_page_content" class="details_desc"></div>
         </div>
