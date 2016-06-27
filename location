@@ -13,7 +13,7 @@
                43440 Boscell Road
 Fremont, CA  94538
             </p>
-            <a class="main_btn block animated_btn" href="https://www.google.com/maps?ll=37.5045,-121.97&z=14&t=m&hl=en-US&gl=CA&mapclient=embed&daddr=Pacific+Commons+Shopping+Center+43918+Boscell+Rd+Fremont,+CA+94538+United+States@37.5045,-121.97" target="_blank" >Driving Direction</a>
+            <a class="main_btn block animated_btn" href="https://www.google.com/maps/place/43440+Boscell+Rd,+Fremont,+CA+94538/@37.503139,-121.975114,16z/data=!4m5!3m4!1s0x808fc76bd26a866b:0xee7a07ffbcdbeeb5!8m2!3d37.503139!4d-121.975114?hl=en-US" target="_blank" >Driving Direction</a>
         </div>
         <div class="details_col_9" id="event_details_container">
             <div class="map_container">
