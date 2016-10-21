@@ -59,7 +59,7 @@
     
     <!-- Site data -->
     <script>
-        setEndPoint('//pacificcommons.mallmaverick.com/api/v3/pacificcommons/all.json');
+        setEndPoint('//twinpines.mallmaverick.com/api/v3/twinpines/all.json');
     </script>
 </head>
 
