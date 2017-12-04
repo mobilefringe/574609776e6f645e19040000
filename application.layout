@@ -83,12 +83,12 @@
                     <a href="https://www.facebook.com/ShopPacificCommons" target="_blank">
                         <span id="social_facebook"></span>
                     </a>
-                    <a href="https://twitter.com/shoppaccomm" target="_blank">
-                        <span id="social_twitter"></span>
-                    </a>
-                    <a href="https://www.pinterest.com/shoppaccomm/" target="_blank">
-                        <span id="social_pinterest"></span>
-                    </a>
+                    <!--<a href="https://twitter.com/shoppaccomm" target="_blank">-->
+                    <!--    <span id="social_twitter"></span>-->
+                    <!--</a>-->
+                    <!--<a href="https://www.pinterest.com/shoppaccomm/" target="_blank">-->
+                    <!--    <span id="social_pinterest"></span>-->
+                    <!--</a>-->
                     <a href="https://www.instagram.com/shoppacificcommons" target="_blank">
                         <span id="social_insta"></span>
                     </a>
