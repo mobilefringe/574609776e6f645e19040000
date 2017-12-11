@@ -166,7 +166,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2016 Pacific Commons Shopping Center
+                © Copyright <span id="current_year"></span> Pacific Commons Shopping Center
             </p>
             <p class="footer_text">
                43440 Boscell Road
